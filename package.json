@@ -1,0 +1,19 @@
+{
+  "name": "sadat-career-portal",
+  "version": "2.0.0",
+  "description": "SADAT - Student Career Intelligence & Skills Growth Portal",
+  "private": true,
+  "scripts": {
+    "start": "node apps/api/src/server.js",
+    "intelligence": "python services/intelligence/server.py 8000",
+    "test:regression": "python tests/regression/test_differential_validation.py"
+  },
+  "keywords": [
+    "career-intelligence",
+    "matching-engine",
+    "sadat-academy",
+    "bilingual-portal"
+  ],
+  "author": "Faculty of Computers and Information - Sadat Academy",
+  "license": "UNLICENSED"
+}

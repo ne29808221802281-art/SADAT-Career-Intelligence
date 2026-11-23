@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SADAT – Student Career Intelligence & Skills Growth Portal</title>
+  <!-- Google Fonts: Plus Jakarta Sans (EN) & IBM Plex Sans Arabic (AR) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-retro-grid">
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-logo">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <div class="brand-text">
+          <h1><span data-i18n="appName">SADAT</span> <span data-i18n="appSubName">CAREER INTELLIGENCE</span></h1>
+          <p data-i18n="appTagline">Academic Career Guidance & Skills Growth Portal</p>
+        </div>
+      </div>
+
+      <div class="header-controls">
+        <!-- Language Switcher -->
+        <div class="lang-switcher">
+          <button class="lang-btn" id="langEnBtn" onclick="window.I18N.setLocale('en')">English</button>
+          <button class="lang-btn" id="langArBtn" onclick="window.I18N.setLocale('ar')">العربية</button>
+        </div>
+
+        <!-- Student Selector for simulation/testing -->
+        <div class="student-picker-wrapper">
+          <label for="studentSelect"><i class="fas fa-user-graduate"></i> <span data-i18n="selectStudent">Select Student:</span></label>
+          <select id="studentSelect" class="student-select" onchange="window.switchStudent(this.value)">
+            <option value="SAD20260001">SAD20260001 - Adam Gamal Samir</option>
+          </select>
+        </div>
+
+        <!-- Active Student Badge -->
+        <div class="student-quick-badge">
+          <div class="badge-avatar" id="studentAvatar">AG</div>
+          <div class="badge-details">
+            <span class="badge-name" id="studentNameDisplay">Adam Gamal Samir</span>
+            <span class="badge-meta" id="studentMetaDisplay">ID: SAD20260001 • GPA: 3.29 (Very Good)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs-bar">
+      <div class="tabs-container">
+        <button class="nav-tab active" data-tab="matchesTab" onclick="window.switchTab('matchesTab')">
+          <i class="fas fa-bullseye"></i> <span data-i18n="tabMatches">Top 10 Job Matches</span>
+        </button>
+        <button class="nav-tab" data-tab="profileTab" onclick="window.switchTab('profileTab')">
+          <i class="fas fa-file-invoice"></i> <span data-i18n="tabProfile">Student Profile & Transcript</span>
+        </button>
+        <button class="nav-tab" data-tab="questionnaireTab" onclick="window.switchTab('questionnaireTab')">
+          <i class="fas fa-clipboard-check"></i> <span data-i18n="tabQuestionnaire">Experience & Questionnaire</span>
+        </button>
+        <button class="nav-tab" data-tab="missingSkillsTab" onclick="window.switchTab('missingSkillsTab')">
+          <i class="fas fa-vial-circle-check"></i> <span data-i18n="tabMissingSkills">14 Missing Skills & Tests</span>
+          <span class="tab-pill">14 Skills</span>
+        </button>
+        <button class="nav-tab" data-tab="roadmapTab" onclick="window.switchTab('roadmapTab')">
+          <i class="fas fa-road"></i> <span data-i18n="tabRoadmap">Fit Improvement Roadmap</span>
+        </button>
+        <button class="nav-tab" data-tab="dashboardTab" onclick="window.switchTab('dashboardTab')">
+          <i class="fas fa-chart-line"></i> <span data-i18n="tabDashboard">Market & Cohort Intelligence</span>
+        </button>
+        <button class="nav-tab" data-tab="allJobsTab" onclick="window.switchTab('allJobsTab')">
+          <i class="fas fa-briefcase"></i> <span data-i18n="tabExploreJobs">Explore Market Jobs</span> (169)
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Main Container -->
+  <main class="app-main">
+
+    <!-- TAB 1: TOP 10 MATCHING JOBS -->
+    <section id="matchesTab" class="tab-pane active">
+      <div class="hero-card">
+        <div class="hero-header">
+          <div class="hero-left">
+            <div class="status-badge">
+              <span class="status-dot"></span>
+              <span data-i18n="activeClass">Live 2026 Graduating Class • Evidence Engine Active</span>
+            </div>
+            <h2><span data-i18n="heroTitlePrefix">Career Intelligence Profile:</span> <span id="heroStudentName">Adam Gamal Samir</span></h2>
+            <p data-i18n="heroDesc">
+              Evaluated against 169 real Egyptian tech market job postings using official 4-year transcripts, verified credentials, and evidence-weighted algorithms.
+            </p>
+            <div class="hero-meta-grid">
+              <div class="meta-chip"><span data-i18n="metaGpa">Year GPA:</span> <strong id="heroGpa">3.29</strong></div>
+              <div class="meta-chip"><span data-i18n="metaEligibleExp">Eligible Exp:</span> <strong id="heroAllowedExp">0 - 2 Yrs</strong></div>
+              <div class="meta-chip"><span data-i18n="metaVerifiedCerts">Verified Certs:</span> <strong id="heroCertsCount">0</strong></div>
+              <div class="meta-chip"><span data-i18n="metaTestsTaken">Online Tests:</span> <strong id="heroTestsCount">0</strong></div>
+            </div>
+          </div>
+          <div class="hero-right">
+            <div class="top-roles-box">
+              <h3><i class="fas fa-ranking-star"></i> <span data-i18n="topRolesTitle">Top Career Tracks:</span></h3>
+              <div id="topRolesList"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-header">
+        <h2><i class="fas fa-star text-ocean-blue"></i> <span data-i18n="tabMatches">Top 10 Job Matches in Egyptian Market</span></h2>
+        <p>Ranked using evidence-weighted compatibility $Fit(j)$ and experience eligibility constraints.</p>
+      </div>
+
+      <!-- Job Cards Grid -->
+      <div id="jobCardsGrid" class="job-grid"></div>
+    </section>
+
+    <!-- TAB 2: PROFILE & TRANSCRIPT (dynamically rendered by renderProfileTab()) -->
+    <section id="profileTab" class="tab-pane">
+      <p class="text-muted" style="padding: 2rem 0; text-align: center;">
+        <i class="fas fa-spinner fa-spin"></i> Loading student profile...
+      </p>
+    </section>
+
+    <!-- TAB 3: QUESTIONNAIRE & EXPERIENCE -->
+    <section id="questionnaireTab" class="tab-pane">
+      <div class="section-header">
+        <h2><i class="fas fa-clipboard-check"></i> <span data-i18n="questionnaireTitle">Student Experience & Credential Questionnaire</span></h2>
+        <p data-i18n="questionnaireDesc">Report professional work experience and industry certifications to boost your job compatibility.</p>
+      </div>
+
+      <div class="form-card">
+        <form id="questionnaireForm" onsubmit="window.submitQuestionnaire(event)">
+          <!-- Work Experience -->
+          <div class="form-group">
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--navy-deep); margin-bottom: 0.75rem;" data-i18n="workExpSection">Professional Work Experience</h3>
+            <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;">
+              <input type="checkbox" id="hasExpCheckbox" onchange="window.toggleExpFields(this.checked)">
+              <span data-i18n="hasExpLabel">I have professional work experience or relevant internships</span>
+            </label>
+          </div>
+
+          <div id="expFieldsGroup" style="display: none; padding: 1rem; background: var(--ice-blue); border-radius: var(--radius-md); margin-bottom: 1.5rem;">
+            <div class="form-group">
+              <label for="expMonthsInput" data-i18n="expMonthsLabel">Duration of Experience (in Months):</label>
+              <input type="number" id="expMonthsInput" class="form-control" min="0" max="120" value="0">
+            </div>
+            <div class="form-group">
+              <label for="expRoleSelect" data-i18n="expRoleLabel">Primary Role / Specialization:</label>
+              <select id="expRoleSelect" class="form-control">
+                <option value="AI / ML Engineer">AI / ML Engineer</option>
+                <option value="Cybersecurity">Cybersecurity</option>
+                <option value="Data Scientist">Data Scientist</option>
+                <option value="Data Analyst / BI">Data Analyst / BI</option>
+                <option value="DevOps / Cloud">DevOps / Cloud</option>
+                <option value="Backend Developer">Backend Developer</option>
+                <option value="Frontend Developer">Frontend Developer</option>
+                <option value="Full Stack Developer">Full Stack Developer</option>
+              </select>
+            </div>
+            <div class="form-group" style="margin-bottom: 0;">
+              <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;">
+                <input type="checkbox" id="expVerifiedCheckbox">
+                <span data-i18n="expVerifiedLabel">I have documented institutional proof for this experience (Weight 0.8)</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- International Certifications -->
+          <div class="form-group">
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--navy-deep); margin-bottom: 0.75rem;" data-i18n="certsSection">International Certifications</h3>
+            <div id="certsListContainer"></div>
+            <button type="button" class="btn btn-outline" style="margin-top: 0.75rem;" onclick="window.addCertRow()" data-i18n="addCertBtn">+ Add International Certificate</button>
+          </div>
+
+          <!-- CV Upload Section -->
+          <div class="form-group" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--navy-deep); margin-bottom: 0.75rem;">
+              <i class="fas fa-file-arrow-up" style="color: var(--ocean-blue);"></i> CV & Documents
+            </h3>
+            <div style="border: 2px dashed var(--border); border-radius: var(--radius-md); padding: 1.5rem; text-align: center; background: var(--ice-blue); margin-bottom: 0.75rem;">
+              <i class="fas fa-cloud-arrow-up" style="font-size: 2rem; color: var(--slate); margin-bottom: 0.5rem; display: block;"></i>
+              <p style="font-size: 0.85rem; color: var(--slate); margin-bottom: 0.75rem;">Upload your CV to auto-extract experience and certifications</p>
+              <input type="file" id="cvFileInput" accept=".pdf,.doc,.docx" style="display: none;">
+              <button type="button" class="btn btn-outline" onclick="document.getElementById('cvFileInput').click()">
+                <i class="fas fa-upload"></i> Upload CV (PDF / DOCX)
+              </button>
+            </div>
+            <button type="button" class="btn btn-outline" disabled style="width: 100%; opacity: 0.55; cursor: not-allowed; display: flex; align-items: center; justify-content: center; gap: 0.5rem;" title="Coming Soon">
+              <i class="fas fa-wand-magic-sparkles"></i>
+              AI CV Builder
+              <span style="background: var(--ocean-blue); color: white; font-size: 0.65rem; padding: 0.15rem 0.5rem; border-radius: 10px; font-weight: 700;">COMING SOON</span>
+            </button>
+          </div>
+
+          <button type="submit" class="btn btn-primary" style="width: 100%; padding: 0.85rem; font-size: 0.95rem; margin-top: 1.5rem;" data-i18n="saveQuestionnaireBtn">
+            Save Responses & Recalculate Matching
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <!-- TAB 4: 14 MISSING SKILLS & FREE TESTS -->
+    <section id="missingSkillsTab" class="tab-pane">
+      <div class="section-header">
+        <h2><i class="fas fa-vial-circle-check"></i> <span data-i18n="missingSkillsTitle">14 High-Demand Missing Market Skills</span></h2>
+        <p data-i18n="missingSkillsDesc">Skills with high market demand not sufficiently covered by the academic curriculum. Take free official assessments to increase your employability.</p>
+      </div>
+
+      <div id="missingSkillsGrid" class="missing-skills-grid"></div>
+    </section>
+
+    <!-- TAB 5: FIT IMPROVEMENT ROADMAP -->
+    <section id="roadmapTab" class="tab-pane">
+      <div class="section-header">
+        <h2><i class="fas fa-road"></i> <span data-i18n="roadmapTitle">Personalized Fit Improvement Roadmap</span></h2>
+        <p data-i18n="roadmapDesc">Actionable recommendations to close skill gaps and maximize compatibility across target jobs.</p>
+      </div>
+
+      <div id="roadmapList"></div>
+    </section>
+
+    <!-- TAB 6: MARKET & COHORT DASHBOARD -->
+    <section id="dashboardTab" class="tab-pane">
+      <div class="section-header">
+        <h2><i class="fas fa-chart-line"></i> <span data-i18n="marketDashboardTitle">Egyptian Tech Market & Cohort Intelligence</span></h2>
+        <p data-i18n="marketDashboardDesc">Grounded empirical analytics comparing employer demand across 169 real tech jobs with Sadat Academy cohort capabilities.</p>
+      </div>
+
+      <!-- Market vs Cohort Skills Chart -->
+      <div class="chart-box">
+        <div class="chart-header">
+          <h3 data-i18n="marketVsCohort">Market Demand vs Cohort Readiness Gap</h3>
+          <p>Dark Blue: Employer Demand (Entry-level ads) • Teal: Cohort Readiness (S $\ge$ 50%)</p>
+        </div>
+        <div id="marketSkillsChart"></div>
+      </div>
+
+      <!-- Role Profiles Benchmarks -->
+      <div class="chart-box">
+        <div class="chart-header">
+          <h3 data-i18n="roleSummaryTitle">Role Alignment & Compatibility Benchmarks</h3>
+          <p>Cohort Mean Match % vs Best Student Match % across 13 tech specializations.</p>
+        </div>
+        <div id="roleSummaryChart"></div>
+      </div>
+    </section>
+
+    <!-- TAB 7: EXPLORE ALL 169 JOBS -->
+    <section id="allJobsTab" class="tab-pane">
+      <div class="section-header">
+        <h2><i class="fas fa-briefcase"></i> <span data-i18n="exploreJobsTitle">Real Egyptian Tech Market Postings</span> (169)</h2>
+        <p>Verified job opportunities scraped from the Egyptian tech market.</p>
+      </div>
+
+      <div style="margin-bottom: 1.5rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+        <select id="jobTrackFilter" class="form-control" style="max-width: 260px;" onchange="window.filterJobs()">
+          <option value="" data-i18n="filterSpecialization">All Specializations</option>
+        </select>
+        <select id="jobWorkModeFilter" class="form-control" style="max-width: 200px;" onchange="window.filterJobs()">
+          <option value="" data-i18n="filterWorkMode">All Work Modes</option>
+          <option value="Remote">Remote</option>
+          <option value="Hybrid">Hybrid</option>
+          <option value="On-site">On-site</option>
+        </select>
+      </div>
+
+      <div id="exploreJobsGrid" class="job-grid"></div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <div>
+        <strong>Faculty of Computers & Information</strong> — Sadat Academy
+      </div>
+      <div>
+        SADAT Career Matching & Skills Growth Platform • Class of 2026
+      </div>
+      <div>
+        Evidence Engine v2.0 • Standalone Portal
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/embedded_data.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

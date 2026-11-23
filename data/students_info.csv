@@ -1,0 +1,1001 @@
+Student_ID,Student_Name,Gender,Major,Faculty,Academic_Class,GPA,Grade_Label
+SAD20260001,Adam Gamal Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260002,Malak Rashad ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260003,Sherif Younis Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260004,Aya Hassan Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260005,Salma Nabil Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260006,Sarah Zaki Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260007,Mostafa Salem Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260008,Laila Rashad Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260009,Omar ElSherif Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260010,Maya Rashad Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260011,Omar Tawfik Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260012,Reem Younis Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260013,Khaled Kamel Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260014,Ziad Hassan Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260015,Jana Ali ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260016,Laila Ibrahim Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260017,Mohamed Khalil Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260018,Nada Hassan Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260019,Adam Mostafa Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260020,Laila Saad Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.28,Pass
+SAD20260021,Youssef Badr Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.81,Excellent
+SAD20260022,Sarah Zaki Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260023,Mostafa Shawky Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260024,Maya Mahmoud Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260025,Salma Khalil Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260026,Mariam Gamal Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.87,Good
+SAD20260027,Ibrahim Hassan Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260028,Amr Mahmoud Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.86,Pass
+SAD20260029,Amr Khalil Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260030,Jana Ali Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.79,Good
+SAD20260031,Khaled Badr Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260032,Dina Hassan Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260033,Peter Gamal Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.35,Good
+SAD20260034,Farah Sayed Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.77,Excellent
+SAD20260035,Mahmoud Khalil Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260036,Dina Salem Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.37,Good
+SAD20260037,Ahmed Hegazy Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260038,Yasmin Fathy Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260039,Mahmoud Soliman Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260040,Dina Sayed Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.87,Excellent
+SAD20260041,Adam Fathy Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.27,Pass
+SAD20260042,Peter Tawfik Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260043,Ziad Tawfik Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.91,Excellent
+SAD20260044,Esraa Farouk Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260045,Mariam Mostafa Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260046,Malak Fathy Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260047,Sherif Tawfik Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.89,Pass
+SAD20260048,Rana Rashad Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.95,Good
+SAD20260049,Ali Hassan ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260050,Nour ElSherif Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260051,Karim Hassan Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260052,Sarah Ali Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260053,Ali Zaki Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260054,Nada Ibrahim Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260055,Malak Nabil Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260056,Youssef Badr Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260057,Mina Kamel Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260058,Maya Younis Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260059,Mostafa Shawky Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260060,Aya Mahmoud Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.47,Excellent
+SAD20260061,Mostafa Tawfik Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260062,Yasmin Rashad Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.32,Good
+SAD20260063,Omar ElSherif Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.57,Excellent
+SAD20260064,Farah Ibrahim Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260065,Malak Ibrahim Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260066,Dina Sayed Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.23,Pass
+SAD20260067,Youssef Tawfik Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.58,Good
+SAD20260068,Dina Kamel Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260069,Amr Hassan Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.51,Good
+SAD20260070,Peter Hassan Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260071,Fady Abbas Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260072,Malak Mokhtar Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260073,Mostafa Fathy Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260074,Aya Younis Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260075,Farah Nabil Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.7,Excellent
+SAD20260076,Jana Hegazy Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.58,Excellent
+SAD20260077,Karim Badr Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.68,Excellent
+SAD20260078,Aya Mokhtar Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.43,Good
+SAD20260079,Khaled Badr Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.51,Good
+SAD20260080,Malak Mahmoud Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260081,Hassan Mansour Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260082,Mariam Salem Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.12,Pass
+SAD20260083,Ibrahim Shawky Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.86,Good
+SAD20260084,Peter Badr Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260085,Dina Adel Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260086,Nour Soliman Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260087,Youssef Ibrahim Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260088,Dina Tawfik Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.82,Pass
+SAD20260089,Peter Ali Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.66,Excellent
+SAD20260090,Habiba Khalil Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260091,Sherif Ezz Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260092,Mariam Abdelrahman Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260093,Sherif Adel Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260094,Dina Kamel Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260095,Dina Saad Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260096,Sarah Khalil Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260097,Ali Nabil Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.56,Good
+SAD20260098,Youssef Hegazy Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.96,Good
+SAD20260099,Ahmed Khalil Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.92,Good
+SAD20260100,Mariam Hassan Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260101,Khaled Samir Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.98,Good
+SAD20260102,Malak Gamal Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260103,Ahmed Mostafa Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260104,Jana Abdelrahman Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260105,Ahmed Kamel Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.7,Excellent
+SAD20260106,Nada Hassan Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.42,Excellent
+SAD20260107,Youssef Hassan Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260108,Mariam Badr Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260109,Omar Tawfik Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260110,Salma Farouk Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260111,Khaled Saad Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260112,Peter Zaki Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260113,Adam Salem ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.6,Good
+SAD20260114,Nada Rashad Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260115,Mariam Zaki Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.21,Pass
+SAD20260116,Menna Ezz Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260117,Mohamed Abbas Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260118,Sarah Sayed Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.91,Good
+SAD20260119,Peter Abbas Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260120,Mariam Sayed Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260121,Karim Kamel Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260122,Habiba Soliman Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260123,Peter Nabil Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.85,Good
+SAD20260124,Reem Farouk Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260125,Nada Adel Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260126,Karim Hegazy Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260127,Mahmoud Mokhtar Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.78,Good
+SAD20260128,Jana Soliman Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260129,Sherif Younis Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.95,Pass
+SAD20260130,Nada Tawfik Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260131,Ziad Khalil Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260132,Mariam Zaki Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.66,Excellent
+SAD20260133,Karim Tawfik Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260134,Reem Saad Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.43,Excellent
+SAD20260135,Menna Salem ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.92,Pass
+SAD20260136,Malak Abbas Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260137,Sherif Saad Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260138,Aya Farouk ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260139,Mahmoud Mansour Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260140,Mohamed Rashad Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.73,Excellent
+SAD20260141,Ibrahim Fathy Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260142,Reem Badr Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260143,Mahmoud Ezz Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260144,Menna Rashad Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260145,Nour Ali Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260146,Laila Kamel Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260147,Ahmed Samir Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260148,Nour ElSherif Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.93,Pass
+SAD20260149,Ziad Abbas Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260150,Hana Tawfik ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260151,Amr Hegazy Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260152,Sarah Ezz Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260153,Mohamed Fathy Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.46,Excellent
+SAD20260154,Khaled Sayed Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260155,Esraa Ezz Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260156,Esraa Abbas Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260157,Hussein Ibrahim Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260158,Dina Nabil Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260159,Peter Mahmoud Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.76,Excellent
+SAD20260160,Menna Adel Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260161,Amr Adel Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260162,Rana Shawky Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260163,Ahmed Mokhtar Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.3,Good
+SAD20260164,Maya Mahmoud ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260165,Esraa Khalil Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260166,Esraa Ali Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260167,Khaled Hassan Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260168,Khaled Saad Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260169,Ziad Mostafa Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.85,Pass
+SAD20260170,Esraa Zaki Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260171,Mina Rashad Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260172,Laila Mansour Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.89,Good
+SAD20260173,Khaled Mokhtar Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260174,Farah Younis Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260175,Peter Samir Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260176,Yasmin Abdelrahman Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.33,Good
+SAD20260177,Ziad Farouk Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260178,Nour Badr Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260179,Khaled Younis Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260180,Esraa Mansour Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260181,Hussein Ibrahim Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.6,Good
+SAD20260182,Omar ElSherif Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260183,Ibrahim Soliman Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.56,Good
+SAD20260184,Nada ElSherif Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.28,Pass
+SAD20260185,Laila Kamel Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260186,Farah Ali Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.92,Good
+SAD20260187,Peter Younis Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260188,Menna Mansour Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.51,Good
+SAD20260189,Hussein Fathy ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260190,Sarah Samir Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260191,Omar Shawky Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.48,Good
+SAD20260192,Mariam Salem Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260193,Fady Mostafa Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.15,Pass
+SAD20260194,Laila Sayed Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260195,Hana Khalil Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260196,Ali Saad Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260197,Amr Gamal Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.93,Good
+SAD20260198,Dina Mansour Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.78,Good
+SAD20260199,Ahmed Zaki Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.95,Excellent
+SAD20260200,Yasmin Zaki Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260201,Mohamed Ezz ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260202,Yasmin Mahmoud Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260203,Omar Soliman Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260204,Nada Khalil Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.0,Pass
+SAD20260205,Jana Zaki Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260206,Rana Gamal Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.39,Good
+SAD20260207,Ali Soliman Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260208,Dina Mokhtar Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.4,Excellent
+SAD20260209,Mina Mostafa Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260210,Youssef Mostafa Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260211,Youssef Tawfik Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.69,Excellent
+SAD20260212,Reem Adel Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260213,Sherif Hassan Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.88,Excellent
+SAD20260214,Habiba Farouk Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.99,Good
+SAD20260215,Laila Ezz Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.64,Excellent
+SAD20260216,Reem Mokhtar Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.74,Excellent
+SAD20260217,Ali Khalil Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260218,Esraa Shawky Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260219,Mohamed Samir Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260220,Sarah Mahmoud Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260221,Karim Badr Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260222,Reem Rashad Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.81,Excellent
+SAD20260223,Omar Salem Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260224,Karim Badr Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260225,Aya Sayed Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260226,Nada Zaki ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260227,Adam Hegazy Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260228,Dina Salem Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.86,Good
+SAD20260229,Hassan Badr Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260230,Hana Gamal Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260231,Omar Gamal Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.58,Good
+SAD20260232,Menna Samir Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.06,Pass
+SAD20260233,Khaled Ezz Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260234,Nour Younis Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260235,Farah Badr Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260236,Esraa Ezz Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260237,Adam Farouk Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.76,Good
+SAD20260238,Ziad Hassan Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.9,Pass
+SAD20260239,Mahmoud Abbas Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260240,Mariam Samir Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260241,Sherif Khalil Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260242,Farah Ezz Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260243,Ahmed ElSherif Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260244,Nadine Mokhtar Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.87,Good
+SAD20260245,Omar Rashad Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260246,Habiba Rashad Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260247,Tarek Rashad Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.43,Good
+SAD20260248,Nada Hegazy Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.87,Pass
+SAD20260249,Adam Mostafa Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260250,Reem Tawfik Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260251,Ali Abdelrahman Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260252,Hassan Mokhtar Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.02,Pass
+SAD20260253,Amr Abdelrahman Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260254,Habiba Rashad Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260255,Maya Rashad Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.72,Good
+SAD20260256,Habiba Saad Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260257,Ziad Abdelrahman Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.52,Good
+SAD20260258,Mariam Shawky Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.2,Pass
+SAD20260259,Karim Nabil Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260260,Esraa Abdelrahman Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260261,Ibrahim Saad Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260262,Sarah Rashad Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.56,Excellent
+SAD20260263,Hassan Sayed Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260264,Nada Farouk Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260265,Reem Farouk Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260266,Sherif Rashad Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260267,Ibrahim Tawfik Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260268,Menna Mostafa Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260269,Mohamed Mahmoud Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.53,Good
+SAD20260270,Rana Mostafa Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260271,Hassan Salem Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260272,Dina Abdelrahman Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260273,Mohamed Hassan Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.24,Pass
+SAD20260274,Jana Hegazy Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.03,Pass
+SAD20260275,Maya Abbas Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260276,Jana Salem Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.75,Excellent
+SAD20260277,Omar Khalil Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.87,Excellent
+SAD20260278,Maya Rashad Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260279,Ahmed Rashad Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260280,Youssef Ezz Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260281,Fady Hegazy Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.86,Excellent
+SAD20260282,Sarah Salem Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.86,Excellent
+SAD20260283,Mina Abbas Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260284,Nadine Kamel Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260285,Habiba Ezz Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260286,Dina Ezz Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260287,Amr Younis Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.53,Excellent
+SAD20260288,Menna Farouk Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.71,Excellent
+SAD20260289,Tarek Badr Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.44,Excellent
+SAD20260290,Habiba Khalil Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260291,Amr Fathy Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260292,Nada Salem Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260293,Ali Samir Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260294,Tarek Mahmoud Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.63,Good
+SAD20260295,Salma Salem Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.65,Excellent
+SAD20260296,Maya Soliman Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.52,Good
+SAD20260297,Ibrahim Shawky Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.92,Pass
+SAD20260298,Jana Farouk Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260299,Mostafa Zaki Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260300,Laila Mokhtar Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260301,Sherif Kamel Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.64,Excellent
+SAD20260302,Salma Khalil Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260303,Ibrahim Abdelrahman Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260304,Esraa Fathy Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.99,Good
+SAD20260305,Hana Mansour Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.11,Pass
+SAD20260306,Nada Shawky Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.32,Good
+SAD20260307,Hassan Badr Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260308,Omar Hegazy Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.88,Pass
+SAD20260309,Hussein Hegazy Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260310,Nada Saad Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260311,Tarek Adel Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260312,Hana Nabil Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260313,Amr Soliman Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.49,Excellent
+SAD20260314,Esraa Rashad Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.52,Good
+SAD20260315,Omar Nabil Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260316,Salma Nabil Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.85,Good
+SAD20260317,Sherif Hassan Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.92,Pass
+SAD20260318,Mariam Gamal Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260319,Mohamed Mostafa Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260320,Mariam Shawky Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.35,Good
+SAD20260321,Karim Mansour Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260322,Mohamed Mansour ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260323,Ziad Mahmoud Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260324,Dina Hegazy Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260325,Malak Kamel Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.36,Good
+SAD20260326,Salma ElSherif ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260327,Hassan Mokhtar Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260328,Reem Fathy Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260329,Ali Ezz Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260330,Maya Mansour Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260331,Ibrahim Abdelrahman Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260332,Esraa Soliman Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260333,Omar Saad Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.37,Good
+SAD20260334,Dina Abdelrahman Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260335,Maya Saad Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260336,Tarek Mahmoud Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.43,Good
+SAD20260337,Tarek Adel Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260338,Reem Saad Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260339,Ziad Fathy Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260340,Mariam Farouk Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.47,Excellent
+SAD20260341,Mostafa Samir Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.58,Good
+SAD20260342,Nour Khalil Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260343,Hussein Abbas Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260344,Yasmin Mostafa Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260345,Nada Abbas Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260346,Farah Fathy Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.66,Good
+SAD20260347,Mina Younis Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260348,Salma Saad Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.53,Good
+SAD20260349,Sherif Khalil Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.86,Good
+SAD20260350,Omar Mokhtar Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.57,Excellent
+SAD20260351,Youssef Younis Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260352,Nour ElSherif Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.42,Good
+SAD20260353,Hassan Abbas Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260354,Nour Nabil Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260355,Aya Nabil Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260356,Farah Nabil Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.39,Very Good
+SAD20260357,Amr Shawky Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260358,Sarah Khalil Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260359,Mostafa Younis Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260360,Dina Farouk Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260361,Karim Adel Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260362,Maya Zaki ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.98,Good
+SAD20260363,Omar Abbas Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.93,Excellent
+SAD20260364,Fady Hegazy Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260365,Jana Mahmoud Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260366,Yasmin Younis Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260367,Sherif Hassan Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260368,Mariam Zaki Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.68,Good
+SAD20260369,Tarek Ezz Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.63,Good
+SAD20260370,Jana Abbas Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260371,Fady Mansour ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260372,Farah Ali Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260373,Ziad Mahmoud Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260374,Maya Ibrahim Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.46,Excellent
+SAD20260375,Sarah Farouk Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.04,Pass
+SAD20260376,Menna Sayed Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260377,Tarek Samir Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260378,Karim Salem Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260379,Khaled Mahmoud Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260380,Salma Mostafa Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260381,Peter Abdelrahman Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260382,Nour Gamal Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260383,Adam Abdelrahman Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260384,Maya Nabil Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260385,Peter Hassan Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.39,Very Good
+SAD20260386,Nada Ezz Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260387,Mahmoud Abbas Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260388,Habiba Abdelrahman Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260389,Ziad Mahmoud Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260390,Salma Mokhtar Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260391,Ali Adel Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260392,Mina Shawky Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260393,Ibrahim Samir Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260394,Nour Rashad Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260395,Farah Ali Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.42,Excellent
+SAD20260396,Aya Tawfik Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.8,Excellent
+SAD20260397,Ahmed Hegazy Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260398,Laila Rashad Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.87,Pass
+SAD20260399,Omar Zaki Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.86,Pass
+SAD20260400,Dina Mahmoud Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.62,Good
+SAD20260401,Mohamed Ezz Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260402,Menna Kamel Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260403,Ahmed Younis Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260404,Reem Zaki Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.79,Excellent
+SAD20260405,Farah Hassan Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.7,Excellent
+SAD20260406,Ziad Mostafa Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.25,Pass
+SAD20260407,Ali Mokhtar ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260408,Maya Ibrahim Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.0,Pass
+SAD20260409,Mostafa Fathy Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.25,Pass
+SAD20260410,Aya Khalil Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.75,Excellent
+SAD20260411,Khaled Salem Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260412,Laila Tawfik Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260413,Mina Salem Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260414,Malak Shawky Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260415,Reem Ali Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260416,Jana Fathy Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260417,Fady Soliman Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260418,Mariam Soliman Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.93,Good
+SAD20260419,Mahmoud Ali Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.29,Pass
+SAD20260420,Amr Ali Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260421,Peter Khalil Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260422,Nada Farouk Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260423,Amr Abbas Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260424,Farah ElSherif Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260425,Nour ElSherif Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260426,Laila ElSherif Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260427,Karim Kamel Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260428,Mariam Abdelrahman Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260429,Mohamed Adel Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260430,Farah Shawky Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.86,Good
+SAD20260431,Ziad Abbas Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260432,Menna Gamal Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260433,Hassan Ali Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260434,Ahmed Gamal Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260435,Nadine Shawky Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.95,Good
+SAD20260436,Salma Zaki Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.51,Excellent
+SAD20260437,Sherif Kamel Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260438,Laila Abdelrahman ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260439,Fady Mansour Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.58,Good
+SAD20260440,Laila Khalil Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.49,Excellent
+SAD20260441,Amr Sayed Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260442,Yasmin Ibrahim Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.92,Good
+SAD20260443,Ali Adel Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.91,Excellent
+SAD20260444,Malak ElSherif Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.57,Excellent
+SAD20260445,Jana ElSherif Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260446,Reem Farouk Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260447,Mohamed Mokhtar Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.98,Good
+SAD20260448,Fady Shawky Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.01,Pass
+SAD20260449,Fady Mokhtar Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260450,Sarah Gamal Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260451,Omar Khalil Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260452,Reem Abbas Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260453,Mostafa Mostafa Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260454,Sarah Hegazy Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.64,Excellent
+SAD20260455,Mostafa Zaki Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.71,Excellent
+SAD20260456,Habiba Ezz Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.45,Excellent
+SAD20260457,Hassan Salem Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260458,Reem Samir Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260459,Sherif Tawfik Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260460,Mariam Mostafa Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260461,Fady Hegazy Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.04,Pass
+SAD20260462,Hassan Soliman Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.92,Excellent
+SAD20260463,Karim Mahmoud Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260464,Aya Mahmoud Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.39,Good
+SAD20260465,Sarah Younis Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260466,Sarah Farouk Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260467,Peter Mokhtar Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260468,Nour Soliman ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.18,Pass
+SAD20260469,Youssef Samir Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.19,Pass
+SAD20260470,Reem Mahmoud Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.64,Good
+SAD20260471,Ibrahim Hassan Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260472,Reem Abdelrahman Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260473,Ahmed Khalil Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.92,Good
+SAD20260474,Malak Younis Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260475,Nada Tawfik Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260476,Khaled Abbas Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.81,Pass
+SAD20260477,Mostafa Hassan Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260478,Dina Abdelrahman Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260479,Sherif Mostafa Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.94,Pass
+SAD20260480,Reem Zaki Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.95,Pass
+SAD20260481,Hussein Salem Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260482,Esraa Mokhtar Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260483,Karim Mansour Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.98,Good
+SAD20260484,Dina Shawky Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260485,Esraa Hassan Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260486,Aya Saad Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260487,Ahmed Saad Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260488,Reem ElSherif Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260489,Mahmoud Abdelrahman Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260490,Karim Younis Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.54,Good
+SAD20260491,Hussein Younis Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.51,Good
+SAD20260492,Rana ElSherif Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260493,Adam Tawfik Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260494,Menna ElSherif Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260495,Salma Khalil Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260496,Esraa Younis Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.63,Good
+SAD20260497,Mahmoud Mahmoud Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.04,Pass
+SAD20260498,Mariam Ezz Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.36,Good
+SAD20260499,Youssef Salem Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260500,Maya Tawfik Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260501,Mohamed Shawky Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260502,Nada Khalil Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.6,Good
+SAD20260503,Mahmoud Ezz Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.47,Good
+SAD20260504,Ziad Abdelrahman Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260505,Yasmin Abbas Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260506,Nada Sayed Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260507,Mahmoud Mahmoud Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260508,Rana Khalil Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260509,Mostafa Sayed Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.85,Pass
+SAD20260510,Aya Ali Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.86,Pass
+SAD20260511,Mina Hassan Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.83,Good
+SAD20260512,Laila Adel Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260513,Hussein Rashad Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.58,Good
+SAD20260514,Hana Nabil Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.64,Good
+SAD20260515,Nour Gamal Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260516,Esraa Mansour Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.85,Good
+SAD20260517,Khaled Soliman Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.52,Good
+SAD20260518,Ibrahim Mokhtar Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260519,Karim Ibrahim Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260520,Esraa Gamal Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260521,Ahmed Soliman Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.51,Good
+SAD20260522,Hana Rashad Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260523,Tarek Fathy Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260524,Aya Mansour Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.63,Good
+SAD20260525,Mina ElSherif Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260526,Sarah Mahmoud Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.86,Pass
+SAD20260527,Fady Hassan Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.46,Excellent
+SAD20260528,Nada Ibrahim Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.81,Excellent
+SAD20260529,Mina Mansour Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.4,Excellent
+SAD20260530,Salma Abdelrahman Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260531,Ahmed Younis Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260532,Mina Abbas Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260533,Karim Salem Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260534,Rana Younis Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.78,Good
+SAD20260535,Maya Soliman Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260536,Farah Salem Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260537,Peter Adel Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260538,Nada Ali Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.71,Excellent
+SAD20260539,Omar Khalil Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.39,Very Good
+SAD20260540,Reem Gamal ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.42,Excellent
+SAD20260541,Ziad Salem Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260542,Aya Ezz Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260543,Mina Kamel Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260544,Menna Khalil Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260545,Reem Farouk Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260546,Peter Rashad Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260547,Ibrahim Badr Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260548,Menna Nabil Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260549,Mostafa Tawfik Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260550,Yasmin Abbas Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260551,Fady Kamel Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.04,Pass
+SAD20260552,Habiba Hegazy Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260553,Mostafa Abbas Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260554,Habiba Gamal Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.33,Good
+SAD20260555,Nada Saad Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260556,Malak Salem Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260557,Peter Ezz Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.35,Good
+SAD20260558,Nada Zaki Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260559,Sherif Fathy Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.56,Excellent
+SAD20260560,Ibrahim Mokhtar Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260561,Ali Salem Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260562,Mariam Abbas Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260563,Peter Mostafa Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260564,Nadine Mokhtar Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260565,Maya Zaki Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260566,Farah Mostafa Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260567,Sherif Ezz Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260568,Nour Zaki Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.44,Excellent
+SAD20260569,Ali Fathy Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.5,Good
+SAD20260570,Sarah Ali Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260571,Hussein Kamel Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.83,Excellent
+SAD20260572,Nour Zaki Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.57,Excellent
+SAD20260573,Adam Khalil Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.95,Pass
+SAD20260574,Mostafa Sayed Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.57,Excellent
+SAD20260575,Rana Fathy Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.36,Good
+SAD20260576,Dina Hegazy Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260577,Tarek Gamal Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.68,Good
+SAD20260578,Yasmin Abdelrahman Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260579,Peter Mostafa Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260580,Reem ElSherif ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260581,Fady Soliman Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.36,Good
+SAD20260582,Sarah Zaki Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.25,Pass
+SAD20260583,Ahmed Mahmoud Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260584,Salma Hegazy Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260585,Menna Fathy Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.5,Good
+SAD20260586,Aya Ibrahim Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260587,Ahmed Soliman Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260588,Mohamed Salem Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.98,Pass
+SAD20260589,Mohamed Salem Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260590,Hana Tawfik Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260591,Mostafa Fathy Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.18,Pass
+SAD20260592,Dina Tawfik Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260593,Ziad Abbas Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260594,Salma Tawfik Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260595,Ali Gamal Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260596,Nour Soliman Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.04,Pass
+SAD20260597,Ibrahim Tawfik Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.73,Excellent
+SAD20260598,Nadine Shawky Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.51,Excellent
+SAD20260599,Mina Mokhtar Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260600,Farah Gamal Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260601,Sherif Sayed Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.26,Pass
+SAD20260602,Khaled ElSherif Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260603,Ahmed Salem Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.89,Pass
+SAD20260604,Malak Nabil Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.45,Good
+SAD20260605,Nour Mahmoud Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260606,Salma Samir Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.99,Pass
+SAD20260607,Ali Fathy Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260608,Dina Mansour ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.58,Excellent
+SAD20260609,Fady Hassan Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.23,Pass
+SAD20260610,Reem Mahmoud Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.53,Good
+SAD20260611,Youssef Kamel Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260612,Yasmin Samir Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.63,Excellent
+SAD20260613,Tarek Ibrahim Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260614,Yasmin Mahmoud Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260615,Dina Tawfik Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.56,Excellent
+SAD20260616,Karim Kamel Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.61,Excellent
+SAD20260617,Fady Khalil Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.28,Pass
+SAD20260618,Mariam Nabil Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260619,Ahmed Tawfik Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260620,Malak Samir Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260621,Peter Zaki Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260622,Farah Hegazy Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260623,Hassan Adel Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.75,Excellent
+SAD20260624,Reem Adel Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.66,Excellent
+SAD20260625,Hana Rashad Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260626,Nada Tawfik Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.54,Excellent
+SAD20260627,Mostafa ElSherif Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260628,Nada Salem Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.09,Very Good
+SAD20260629,Ziad Mahmoud Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260630,Amr ElSherif Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260631,Ziad Shawky ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260632,Rana Mostafa Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.27,Pass
+SAD20260633,Tarek Soliman Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260634,Aya Soliman Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.48,Good
+SAD20260635,Reem Rashad Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260636,Habiba Abdelrahman Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260637,Sherif Salem Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.71,Excellent
+SAD20260638,Nour Abbas Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.37,Good
+SAD20260639,Ibrahim Sayed Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.48,Good
+SAD20260640,Mariam ElSherif Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260641,Hassan Younis Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.91,Good
+SAD20260642,Sarah Nabil Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260643,Omar Gamal Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260644,Amr Sayed Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260645,Maya Samir Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260646,Rana Mansour Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260647,Amr Abbas Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.66,Good
+SAD20260648,Salma Rashad Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260649,Sherif Ibrahim ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.86,Excellent
+SAD20260650,Farah Hassan Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260651,Mostafa Hegazy Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260652,Nadine Hassan Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260653,Amr ElSherif Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260654,Reem Farouk Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260655,Jana Sayed Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260656,Aya Shawky Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260657,Amr Ali Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260658,Mostafa Younis Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.15,Pass
+SAD20260659,Mostafa Ezz Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260660,Esraa Farouk Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260661,Youssef Shawky Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.08,Pass
+SAD20260662,Rana Younis Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260663,Mostafa Mansour Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.79,Good
+SAD20260664,Maya Soliman Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260665,Hassan Saad Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260666,Mariam Farouk Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260667,Ali Nabil ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.79,Good
+SAD20260668,Malak Mansour Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260669,Ibrahim Sayed Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.42,Good
+SAD20260670,Yasmin Adel Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260671,Tarek Badr Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260672,Ibrahim Ezz Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260673,Hussein Sayed Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260674,Rana Rashad Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260675,Laila Shawky Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260676,Jana Mokhtar Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.28,Pass
+SAD20260677,Mina Mokhtar Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.64,Good
+SAD20260678,Salma Mokhtar Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.52,Excellent
+SAD20260679,Tarek ElSherif Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260680,Menna Younis Ezz,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260681,Khaled Gamal Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260682,Sarah Abbas Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260683,Peter Hassan Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.37,Good
+SAD20260684,Habiba ElSherif Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260685,Maya Abdelrahman Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260686,Mina Mokhtar Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260687,Khaled Gamal Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260688,Nadine ElSherif Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260689,Ziad Saad Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260690,Rana Fathy Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.43,Excellent
+SAD20260691,Adam Ezz Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260692,Menna Soliman Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260693,Adam Badr Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260694,Yasmin Shawky Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.84,Good
+SAD20260695,Mariam Soliman Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260696,Jana Hegazy Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260697,Mahmoud Nabil Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260698,Reem Ali Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260699,Fady Abbas Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.9,Excellent
+SAD20260700,Peter Abdelrahman Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260701,Ziad Sayed Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260702,Yasmin Zaki Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.89,Good
+SAD20260703,Tarek Mokhtar Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260704,Reem Hegazy Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260705,Esraa Kamel Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260706,Salma Zaki Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.95,Good
+SAD20260707,Tarek Zaki Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.69,Good
+SAD20260708,Esraa Tawfik Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260709,Mina Adel Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.17,Very Good
+SAD20260710,Reem Kamel Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260711,Ali Samir ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260712,Habiba Shawky Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.76,Good
+SAD20260713,Peter Adel Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260714,Mohamed Ibrahim Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.49,Excellent
+SAD20260715,Mariam Sayed Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.64,Good
+SAD20260716,Dina Mokhtar Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.75,Excellent
+SAD20260717,Khaled Mahmoud Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.72,Excellent
+SAD20260718,Reem Sayed Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260719,Youssef Zaki Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260720,Reem Salem Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.24,Pass
+SAD20260721,Mohamed Soliman Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260722,Farah Mahmoud Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.83,Good
+SAD20260723,Hassan Adel Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260724,Dina Gamal Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260725,Malak Shawky Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260726,Menna Mahmoud Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.48,Good
+SAD20260727,Mahmoud Soliman Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.62,Good
+SAD20260728,Mahmoud Nabil Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.91,Excellent
+SAD20260729,Ali Zaki Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260730,Habiba Mostafa Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.7,Excellent
+SAD20260731,Ahmed Mahmoud ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260732,Salma Nabil ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260733,Hassan Younis Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260734,Rana Ali Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.96,Good
+SAD20260735,Ibrahim Abdelrahman Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.79,Excellent
+SAD20260736,Habiba Farouk Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.79,Good
+SAD20260737,Mohamed Mansour Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260738,Nada Ali Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.94,Excellent
+SAD20260739,Tarek Shawky Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.38,Good
+SAD20260740,Nada Khalil Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260741,Mohamed Farouk Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.66,Good
+SAD20260742,Youssef Saad Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260743,Tarek Farouk Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260744,Maya Soliman Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.18,Very Good
+SAD20260745,Rana Sayed Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260746,Malak Saad Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260747,Ziad Ali Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260748,Sarah Khalil Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.74,Excellent
+SAD20260749,Hussein Mahmoud Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260750,Nour Khalil Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260751,Ibrahim Abdelrahman Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.27,Pass
+SAD20260752,Habiba Zaki Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.55,Excellent
+SAD20260753,Tarek ElSherif Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260754,Menna Fathy Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.83,Good
+SAD20260755,Rana Mahmoud Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260756,Fady Salem Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260757,Fady Salem Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260758,Nada Hassan Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260759,Mahmoud Abbas Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260760,Nadine Zaki Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260761,Hassan Hassan Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.93,Good
+SAD20260762,Yasmin Saad Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260763,Omar Shawky Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260764,Jana Mokhtar Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.93,Excellent
+SAD20260765,Malak Khalil Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.73,Good
+SAD20260766,Jana Sayed Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260767,Ahmed Mansour Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260768,Esraa Nabil Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260769,Mostafa Khalil Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260770,Khaled Abdelrahman Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260771,Adam Khalil Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260772,Nour Fathy Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.65,Good
+SAD20260773,Ibrahim Salem Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260774,Esraa Saad Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260775,Dina Mostafa Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260776,Menna Farouk Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260777,Omar Gamal Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.33,Good
+SAD20260778,Nour Younis Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260779,Omar Soliman Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.4,Good
+SAD20260780,Salma Hassan Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.43,Good
+SAD20260781,Ali Sayed Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.99,Good
+SAD20260782,Esraa Mansour Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.54,Excellent
+SAD20260783,Mahmoud Samir ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260784,Peter Zaki Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.52,Good
+SAD20260785,Esraa Mokhtar Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260786,Nour Hegazy Salem,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260787,Peter Salem Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.49,Good
+SAD20260788,Nada Mostafa Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.62,Good
+SAD20260789,Omar Abbas Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260790,Reem Mahmoud Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.67,Good
+SAD20260791,Mostafa Samir Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.92,Good
+SAD20260792,Habiba Mansour Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.83,Good
+SAD20260793,Mahmoud Ali Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.39,Very Good
+SAD20260794,Mariam Mansour Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.89,Excellent
+SAD20260795,Nour Samir Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260796,Laila Hegazy Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.93,Excellent
+SAD20260797,Hassan Badr Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.41,Good
+SAD20260798,Ali ElSherif Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260799,Omar Fathy Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.48,Good
+SAD20260800,Dina Fathy Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260801,Amr Ali Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260802,Yasmin Nabil Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.81,Good
+SAD20260803,Ali Khalil ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260804,Reem Shawky Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260805,Omar Mahmoud Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260806,Nadine Shawky Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.44,Excellent
+SAD20260807,Mostafa Soliman Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260808,Yasmin Badr Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260809,Amr Adel Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.16,Very Good
+SAD20260810,Dina Fathy Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260811,Ziad Ibrahim ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.91,Excellent
+SAD20260812,Sherif Saad Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.23,Pass
+SAD20260813,Ibrahim Rashad Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260814,Salma Hassan Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260815,Salma Younis Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260816,Esraa Younis ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.47,Excellent
+SAD20260817,Youssef Soliman Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.59,Good
+SAD20260818,Menna Younis Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260819,Mohamed Shawky Abbas,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.47,Excellent
+SAD20260820,Rana Khalil Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.77,Excellent
+SAD20260821,Ahmed Shawky Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260822,Dina Salem Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260823,Ali Zaki Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.53,Excellent
+SAD20260824,Reem Farouk Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.43,Good
+SAD20260825,Nadine ElSherif Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.76,Excellent
+SAD20260826,Karim Ezz Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.72,Excellent
+SAD20260827,Mostafa Sayed Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260828,Laila Abbas Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260829,Omar Khalil Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.23,Very Good
+SAD20260830,Laila Samir Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.82,Good
+SAD20260831,Hussein Salem Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.05,Pass
+SAD20260832,Sarah Salem Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260833,Khaled Mansour Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.63,Good
+SAD20260834,Rana Ezz Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.44,Excellent
+SAD20260835,Farah Samir Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.75,Good
+SAD20260836,Maya Nabil Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260837,Amr Abdelrahman Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260838,Maya Soliman Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.78,Good
+SAD20260839,Hassan Tawfik Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.4,Excellent
+SAD20260840,Tarek Rashad Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260841,Ali Soliman Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.91,Excellent
+SAD20260842,Malak Farouk Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.54,Good
+SAD20260843,Mostafa Hassan Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.0,Pass
+SAD20260844,Nadine Kamel Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260845,Maya Mokhtar Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.9,Good
+SAD20260846,Nour Kamel Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260847,Peter Abbas Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.03,Pass
+SAD20260848,Nour Sayed Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260849,Peter Badr Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260850,Habiba Khalil Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.5,Good
+SAD20260851,Khaled Badr Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.94,Good
+SAD20260852,Mariam Mokhtar Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260853,Mahmoud Adel Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260854,Mahmoud Hassan Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260855,Yasmin Zaki Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.67,Excellent
+SAD20260856,Nadine Abbas Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260857,Hassan Mokhtar Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.7,Good
+SAD20260858,Hana Adel Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.94,Pass
+SAD20260859,Peter Abbas ElSherif,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.63,Excellent
+SAD20260860,Malak Fathy Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260861,Hussein Zaki Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260862,Jana Saad ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.87,Excellent
+SAD20260863,Tarek Khalil Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260864,Nada Tawfik Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260865,Nada Sayed Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260866,Nour Badr Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.85,Good
+SAD20260867,Mohamed Ezz Sayed,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260868,Mina Adel Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.47,Excellent
+SAD20260869,Sherif Khalil Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260870,Nour Fathy Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.52,Excellent
+SAD20260871,Mostafa Adel Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.53,Good
+SAD20260872,Nada Hegazy Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.13,Very Good
+SAD20260873,Ahmed Zaki Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.44,Good
+SAD20260874,Nour Mansour Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260875,Karim Badr Shawky,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.35,Very Good
+SAD20260876,Laila Younis Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260877,Karim Ezz Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.93,Good
+SAD20260878,Reem Tawfik Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260879,Mostafa Younis Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260880,Nada Samir ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260881,Youssef Mostafa Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260882,Fady Soliman Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260883,Amr Khalil Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.82,Excellent
+SAD20260884,Reem Zaki Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.94,Good
+SAD20260885,Laila Farouk Hassan,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260886,Menna Shawky Mahmoud,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260887,Karim Sayed Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.36,Very Good
+SAD20260888,Malak Abdelrahman Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.89,Pass
+SAD20260889,Hassan Abdelrahman Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.6,Good
+SAD20260890,Malak Farouk Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260891,Hussein Farouk Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.0,Very Good
+SAD20260892,Habiba Mahmoud Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.62,Good
+SAD20260893,Youssef Nabil Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260894,Aya Salem Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.21,Very Good
+SAD20260895,Jana Ezz Ibrahim,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260896,Khaled Mahmoud Saad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260897,Sherif Abbas Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260898,Maya Mansour Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260899,Fady Tawfik Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260900,Hana Nabil Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260901,Mohamed Gamal Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.86,Pass
+SAD20260902,Esraa Samir Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260903,Karim Ezz Farouk,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.56,Good
+SAD20260904,Farah Mokhtar Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260905,Laila Rashad Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.33,Very Good
+SAD20260906,Laila Mahmoud Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.54,Excellent
+SAD20260907,Hussein Hassan Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.16,Pass
+SAD20260908,Yasmin Shawky Badr,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.13,Pass
+SAD20260909,Ibrahim Ali Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260910,Mohamed Shawky Zaki,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.08,Very Good
+SAD20260911,Ziad Sayed Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260912,Sarah Gamal Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.57,Good
+SAD20260913,Peter Gamal Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260914,Menna Hegazy Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.45,Excellent
+SAD20260915,Rana Mokhtar Ali,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,1.83,Pass
+SAD20260916,Nada Mansour Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.39,Good
+SAD20260917,Peter Mokhtar Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.86,Good
+SAD20260918,Esraa Samir Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.8,Excellent
+SAD20260919,Mostafa Ibrahim Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.11,Very Good
+SAD20260920,Mariam Soliman ElSherif,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260921,Mostafa Sayed Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.06,Very Good
+SAD20260922,Habiba Mostafa Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260923,Youssef Abbas Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260924,Hassan Sayed Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260925,Malak Mahmoud Saad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260926,Menna Younis Farouk,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.04,Very Good
+SAD20260927,Sherif Badr Rashad,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.5,Excellent
+SAD20260928,Farah Soliman Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260929,Khaled Badr Adel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260930,Nada Hassan Younis,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.94,Good
+SAD20260931,Amr Ali Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.74,Good
+SAD20260932,Nada Khalil Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.55,Good
+SAD20260933,Ziad Mahmoud Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260934,Maya Rashad Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.16,Pass
+SAD20260935,Malak Saad Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260936,Salma Khalil Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260937,Ali Hegazy Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.34,Very Good
+SAD20260938,Tarek Salem Tawfik,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260939,Mohamed Younis Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.68,Good
+SAD20260940,Sarah Sayed Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.32,Very Good
+SAD20260941,Karim Younis Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260942,Hana Hegazy Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.28,Very Good
+SAD20260943,Ibrahim Younis Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260944,Maya Hassan Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.87,Good
+SAD20260945,Mostafa Ali Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260946,Yasmin Fathy Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.14,Very Good
+SAD20260947,Ali Hassan Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260948,Nour Ali Soliman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.85,Good
+SAD20260949,Tarek Adel Mahmoud,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.87,Good
+SAD20260950,Yasmin Younis Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260951,Fady Abbas Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.91,Good
+SAD20260952,Ahmed Ezz Ali,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.46,Good
+SAD20260953,Hassan Ali Gamal,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260954,Habiba Fathy Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.2,Very Good
+SAD20260955,Dina Mostafa Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.97,Good
+SAD20260956,Rana ElSherif Shawky,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.83,Excellent
+SAD20260957,Mina Mostafa Mokhtar,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.43,Excellent
+SAD20260958,Laila Kamel Rashad,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260959,Mina Adel Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20260960,Malak Younis Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260961,Ahmed Mokhtar Badr,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.76,Good
+SAD20260962,Aya Hegazy Hegazy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.26,Very Good
+SAD20260963,Ibrahim Tawfik Hegazy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.61,Good
+SAD20260964,Menna Abdelrahman Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.77,Good
+SAD20260965,Menna Abbas Samir,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.34,Good
+SAD20260966,Hassan Ali Mostafa,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.31,Good
+SAD20260967,Adam Farouk Abdelrahman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.29,Very Good
+SAD20260968,Jana Soliman Khalil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260969,Mina Nabil Nabil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.93,Good
+SAD20260970,Habiba Fathy Kamel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.31,Very Good
+SAD20260971,Hassan Kamel Fathy,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260972,Hana Badr Sayed,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.37,Good
+SAD20260973,Ibrahim Sayed Ibrahim,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.56,Good
+SAD20260974,Yasmin Ibrahim Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.03,Very Good
+SAD20260975,Jana Shawky Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260976,Habiba Farouk Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260977,Omar Hegazy Mansour,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.38,Very Good
+SAD20260978,Hana Salem Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.91,Good
+SAD20260979,Youssef Khalil Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.15,Very Good
+SAD20260980,Mina Rashad Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.24,Very Good
+SAD20260981,Peter Ezz Hassan,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.12,Very Good
+SAD20260982,Rana Mokhtar Abdelrahman,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.05,Very Good
+SAD20260983,Mohamed Badr Salem,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.27,Very Good
+SAD20260984,Habiba Ali Mostafa,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.3,Very Good
+SAD20260985,Nour Ali Tawfik,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.37,Very Good
+SAD20260986,Yasmin Tawfik Mokhtar,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.32,Good
+SAD20260987,Karim Ibrahim Ezz,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.17,Pass
+SAD20260988,Hana Mostafa Abbas,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.01,Very Good
+SAD20260989,Hassan Younis Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.71,Good
+SAD20260990,Dina Badr Gamal,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.19,Very Good
+SAD20260991,Sherif Sayed Younis,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.07,Very Good
+SAD20260992,Laila Adel Adel,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.42,Excellent
+SAD20260993,Youssef Ali Kamel,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.13,Pass
+SAD20260994,Mahmoud Abbas Soliman,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.94,Excellent
+SAD20260995,Rana Adel Nabil,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.1,Very Good
+SAD20260996,Laila Abbas Fathy,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.8,Good
+SAD20260997,Khaled Younis Samir,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.25,Very Good
+SAD20260998,Farah Shawky Zaki,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.02,Very Good
+SAD20260999,Peter Shawky Khalil,Male,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,3.22,Very Good
+SAD20261000,Habiba Abbas Mansour,Female,Computers and Information,Faculty of Computers and Information,2026 Graduating Class,2.02,Pass
